@@ -67,6 +67,4 @@ Persistent memory so the agent remembers information about the user across conve
  
 Author : Jasmine · GitHub
 
-License
-
-MIT
+License : MIT
