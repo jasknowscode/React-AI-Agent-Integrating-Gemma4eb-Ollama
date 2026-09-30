@@ -62,9 +62,8 @@ Troubleshooting
 Slow responses: close other memory-heavy apps. On machines with less than 16GB, responses may be noticeably slower.
 
 Roadmap
-Persistent memory so the agent remembers information about the user across conversations
+Persistent memory so the agent remembers information about the user across conversations.
 
- 
 Author : Jasmine · GitHub
 
 License : MIT
